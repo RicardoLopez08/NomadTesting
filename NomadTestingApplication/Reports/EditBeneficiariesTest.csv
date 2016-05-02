@@ -1,0 +1,15 @@
+REPORT: Page Test, , Tester: Mitchell Ungar,Date: 2016-04-15
+Subject:,Status:,Input:
+Running Edit Beneficiaries Page Test,SUCCESS
+Clicking Employees Link,SUCCESS
+Click View 3rd Column Down,SUCCESS
+Clicking Beneficiaries Link,SUCCESS
+Clicking Beneficiaries Button,SUCCESS
+Clicking Edit Button,SUCCESS
+Filling out Beneficiary Information
+Beneficiary Full Name,SUCCESS,TestName
+Saving Beneficiary,SUCCESS
+Terms and Conditions Click,SUCCESS
+Changing Effective Date,SUCCESS,2016-04-07
+Save Button Click,SUCCESS
+Edit Beneficiary Test Success

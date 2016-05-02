@@ -1,0 +1,15 @@
+REPORT: Page Test, , Tester: Mitchell Ungar,Date: 2016-04-15
+Subject:,Status:
+Running Home Page Test,SUCCESS
+Platform Tutorial Text Check,SUCCESS
+Clicking Activities Button,SUCCESS
+Testing Filters:
+Filter 5,SUCCESS
+Filter 10,SUCCESS
+Filter 25,SUCCESS
+Filter 50,SUCCESS
+Filter 100,SUCCESS
+Filter 'Christine',SUCCESS
+Filter 'Rasmussen',SUCCESS
+Home Link Click,SUCCESS
+TEST FINISHED

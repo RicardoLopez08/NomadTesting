@@ -1,0 +1,20 @@
+REPORT: Page Test, , Tester: Mitchell Ungar,Date: 2016-04-15
+Subject:,Status:,Input:
+Running Edit Beneficiaries Page Test,SUCCESS
+Clicking Employees Link,SUCCESS
+Clicking View Button 3rd Row Down,SUCCESS
+Editing Employee,SUCCESS
+Marital Status,SUCCESS,Single
+Marital Status Effective Date,SUCCESS,2016-05-01
+Employee Change Effective Date,SUCCESS,2016-04-07
+Clicking Terms and Conditions,SUCCESS
+Click Save Button,SUCCESS
+View Employee Button Click,SUCCESS
+Terminate Button Click,SUCCESS
+Employee Termination Date,SUCCESS,2016-04-07
+Termination Reason,SUCCESS
+Selecting Text Box,SUCCESS
+Reason for Termination,SUCCESS,This is a test
+Click Terminate Employee Button,SUCCESS
+Clicking Home Link,SUCCESS
+Edit/Terminate Employee Test Successful

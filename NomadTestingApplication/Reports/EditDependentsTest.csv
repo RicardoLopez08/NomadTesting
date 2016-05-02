@@ -1,0 +1,21 @@
+REPORT: Page Test, , Tester: Mitchell Ungar,Date: 2016-04-15
+Subject:,Status:,Input:
+Running Edit Beneficiaries Page Test,SUCCESS
+Clicking Employees Link,SUCCESS
+Clicking View Button 3rd Row Down,SUCCESS
+Clicking Dependents Link,SUCCESS
+Viewing Item in Dependents,SUCCESS
+Opening Group,SUCCESS
+Editing Group,SUCCESS
+Gender,SUCCESS,Female
+Effective Change Date,SUCCESS,2016-04-07
+Clicking Terms and Condition,SUCCESS
+Saving Changes,SUCCESS
+Clicking Benefit Coverage Link,SUCCESS
+Clicking Dependents Link,SUCCESS
+Viewing Dependent,SUCCESS
+Terminating Dependent,SUCCESS
+Setting Termination Date,SUCCESS,2016-04-07
+Termination Reason,SUCCESS,Other
+Terminate Dependent,SUCCESS
+Edit Dependent Success

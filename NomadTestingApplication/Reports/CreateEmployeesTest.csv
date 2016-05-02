@@ -1,0 +1,39 @@
+REPORT: Page Test, , Tester: Mitchell Ungar,Date: 2016-04-15
+Subject:,Status:,Input:
+Running Resources Page Test,SUCCESS
+Clicking Employees Link,SUCCESS
+Clicking New Employee Button,SUCCESS
+First Name,SUCCESS,TestFirstName
+Last Name,SUCCESS,TestLastName
+Middle Initial,SUCCESS,T
+Gender,SUCCESS,Male
+Marital Status,SUCCESS,Married
+Birthdate,SUCCESS,1981-05-02
+E-mail Address,SUCCESS,testemail@test.ca
+Address,SUCCESS,1234 Something St
+City,SUCCESS,TestCity
+Province,SUCCESS,Ontario
+Postal Code,SUCCESS,K7M 7H4
+Group Class,SUCCESS,A - All Employees
+Occupation,SUCCESS,Tester
+Employees Earnings,SUCCESS,23.00
+Employee Earning Frequency,SUCCESS,Hourly
+Weekly Work Hours,SUCCESS,35
+Employee Employment Date,SUCCESS,2016-05-01
+Beneficiary Full Name,SUCCESS,TestName2
+Beneficiary Relationship Type,SUCCESS,Spouse
+Beneficiary Share Percentage,SUCCESS,%100
+Click Save Button,SUCCESS
+Beneficiary Created
+Spouse Dependent Being Created,SUCCESS
+Dependent Firt Name,SUCCESS,TestWife
+Dependent Last Name,SUCCESS,TestLastName
+Dependent Gender,SUCCESS,Female
+Dependent Relationship,SUCCESS,Spouse
+Dependent Date of Birth,SUCCESS,1983-05-02
+Dependent Created,SUCCESS
+Terms and Conditions Clicked,SUCCESS
+Save Button Clicked,SUCCESS
+Employee Added,SUCCESS
+Clicking Beneficiaries Link
+Create Employee Successful
