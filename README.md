@@ -1,6 +1,6 @@
 # NomadTestingSuite
 Nomad is a Graphic User Interface that allows the user to click buttons and run
-tests on the Nomad site on Alpha. That way non-programmers can blackbox the site.
+tests on the Nomad site on Alpha and RC. That way non-programmers can blackbox the site.
 
 What is blackboxing you may be asking?
 Blackboxing is when someone tests something without going into the code. It is
